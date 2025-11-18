@@ -1,1 +1,1 @@
-console.log("Diva Designer Boutique Loaded");
+console.log("Diva Designer Boutique Loaded Successfully!");
